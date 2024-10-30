@@ -1,0 +1,53 @@
+.ibp-page {
+  margin: 50px auto;
+  max-width: 700px;
+  font-family: Arial, sans-serif;
+}
+
+.ibp-page h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.ibp-page .description {
+  font-size: 18px;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.ibp-page ul {
+  list-style-type: disc;
+  margin-left: 30px;
+}
+
+.ibp-page li {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.ibp-page .button-primary {
+  display: inline-block;
+  background-color: #0073aa;
+  color: #fff;
+  font-size: 18px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  margin-top: 20px;
+}
+
+.ibp-page .button-primary:hover {
+  background-color: #005e8c;
+}
+
+.ibp-page h2 {
+  font-size: 28px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.ibp-img{
+  display: table;
+  margin: 0 auto;
+}
